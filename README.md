@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="This is a test" width="100%">
+</p>
+
+
 # Rodent Transfer Portal
 
 A **Streamlit web application** designed to manage and submit rodent transfer requests between the **Centre for Comparative Medicine (CCM)** and the **Preclinical Imaging Facility @ UBC**.  
