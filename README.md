@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Rodent Transfer Portal Banner" width="100%">
+  <img src="Banner.jpg" alt="Rodent Transfer Portal Banner" width="100%">
 </p>
 
 
