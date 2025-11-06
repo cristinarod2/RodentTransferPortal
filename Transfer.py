@@ -952,10 +952,10 @@ if st.session_state.form_data and not st.session_state.locked:
 					# ⚠️ Extra warning if no monitoring sheets were attached
 					if not any("monitor" in f.name.lower() for f in attachments):
 						st.warning(
-							"⚠️ Monitoring sheets were not attached. "
-									"Please send them to the Facility Manager at "
-									"{DEFAULT_EMAIL} **at least 24 hours before the transfer**, "
-									"and no later than the time the animals arrive at CCM."						)
+        				f"⚠️ Monitoring sheets were not attached. "
+       				    f"Please send them to the Facility Manager at {DEFAULT_EMAIL} "
+        			    "at least 24 hours before the transfer, and no later than the time the animals arrive at CCM."
+                     )
 						
 					#st.balloons()
 					st.stop()
