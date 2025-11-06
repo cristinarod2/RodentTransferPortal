@@ -5,7 +5,7 @@
 
 # Rodent Transfer Portal
 
-A **Streamlit web application** designed to manage and submit rodent transfer requests between the **Centre for Comparative Medicine (CCM)** and the **Preclinical Imaging Facility @ UBC**.  
+A **Streamlit web application** designed to manage and submit rodent transfer requests between the **Centre for Comparative Medicine (CCM)** located at UBC and other research facilities on- and off-Campus. 
 The portal streamlines the documentation workflow, automatically generates PDF transfer forms, and sends confirmation emails to facility staff and requesters.
 
 ---
@@ -16,7 +16,6 @@ The portal streamlines the documentation workflow, automatically generates PDF t
 - Upload and attach supporting documents (monitoring sheets, cage maps, etc.)  
 - Automatic PDF form generation  
 - Email notifications for both the requester and facility  
-- Custom facility branding (UBC logo and color palette)
 
 ---
 
